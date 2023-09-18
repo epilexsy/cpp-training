@@ -4,6 +4,12 @@ Notes:
 - Default admin username and password: root
 - No error handling implemented yet for misinputs.
 
+Build:
+```bash
+g++ LMS.cpp
+.\a.exe
+```
+
 # Screenshots:
 
 ![image](https://github.com/epilexsy/cpp-training/assets/31856358/0847c196-a420-4630-acb0-90d0b5305af4)
