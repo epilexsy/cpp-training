@@ -47,3 +47,7 @@ Bits in input string: 3688
 Bits in encoded string: 1933
 Compression rate: 52.4132%
 ```
+> Output from dcode.fr
+
+![image](https://github.com/epilexsy/cpp-training/assets/31856358/74a0c7ec-c060-43b0-99d9-b807c8f9a2f6)
+
