@@ -1,5 +1,5 @@
 # Trying out Smart pointers in C++
-Concept/Demo code for reference in the future.
+code for reference in the future.
 <br>
 
 ## Problems with Normal Pointers 
