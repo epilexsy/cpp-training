@@ -9,7 +9,7 @@ lacinia justo vel augue malesuada, id interdum urna egestas. Nullam tristique mi
 facilisis tristique. Maecenas sit amet tincidunt felis, eget tincidunt nisi.
 ```
 
-> Huffman encoding:
+> Huffman encoding: (excluding tree data in postfix notation)
 ```
 Huffman Encoding
 ---------------------------
